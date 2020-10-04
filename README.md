@@ -1,7 +1,10 @@
 # Team Explorer:
 
 # Team Members: 
-Shiwam Jaiswal, Purushottam hari, Rahul Pandey, Kaustubh Singh. 
+```shell
+ Shiwam Jaiswal,Kaustubh Singh, Purushottam hari, Rahul Pandey
+```
+ 
 
 # Problem Statement
 Planet With People (Sustain)
