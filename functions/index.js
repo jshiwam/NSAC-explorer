@@ -1,8 +1,20 @@
 const functions = require('firebase-functions');
 const admin = require('firebase-admin');
+
+
+
+var serviceAccount = require("./permissions.json");
+
+admin.initializeApp({
+  credential: admin.credential.cert(serviceAccount),
+  databaseURL: "https://o-pital.firebaseio.com"
+});
+
 const express = require('express');
-const cors = require('cors');
 const app = express();
+
+const cors = require('cors');
+app.use(cors({origin:true}));
 
 app.get('/hello-world',(req,res)=>{
     return res.status(200).send('Hello World!');
