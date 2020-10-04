@@ -1,4 +1,8 @@
-# Team Explorer:
+# Team Explorer
+
+![animation](https://drive.google.com/file/d/1O_KuGjYoBWn4grvzNYrUZLGtbrdwinbu/view?usp=sharing)
+
+![context-manager](https://drive.google.com/file/d/1O_KuGjYoBWn4grvzNYrUZLGtbrdwinbu/view?usp=sharing)
 
 # Team Members: 
 ```shell
