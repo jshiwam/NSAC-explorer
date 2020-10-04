@@ -23,4 +23,4 @@ Our aim would be to make this solution more real-time based and fault-tolerant.
 
 Design of Proposed Solution:
 
-![alt text](https://docs.google.com/document/d/1j8FY2V997jLnt_L721LqUBIoupfGhaGTKfLLuS3wSJ8/edit?usp=sharing)
+![alt text](https://github.com/jshiwam/NSAC-explorer/blob/main/workflow.PNG)
